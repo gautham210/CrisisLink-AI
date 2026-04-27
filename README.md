@@ -79,7 +79,9 @@ Built for:
 
 ## 🔗 Live Demo
 
-(Add your deployed link here)
+https://crisis-link-ai.vercel.app/
+
+> Fully functional prototype demonstrating real-time emergency response, AI-powered dispatch, and live traffic simulation.
 
 ---
 
